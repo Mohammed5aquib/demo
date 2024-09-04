@@ -1,0 +1,21 @@
+
+#### **`.gitignore`**
+
+```plaintext
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+
+# Google Cloud service account key file
+keyfile.json
+
+# Data files
+data/*.csv
+
+# Logs
+logs/*.log
